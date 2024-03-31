@@ -1,0 +1,501 @@
+username,easySolved,medSolved,diffSolved,skillsTech,skillsNonTech,enagementHrs,enagementMins,CompSelected,UnstoppableGuaranteeScore
+fluxen0,1,37,49,C++,Communication,640,32,J.P.Morgan Chase,95
+adand1,92,36,81,Python,Communication,50,4,Amazon,93
+ffergusson2,15,84,72,C++,Communication,677,46,Google,99
+stingey3,33,90,26,R,Leadership,437,55,Citi,81
+lbulteel4,96,60,2,Java,Analytical Thinking,613,36,Amazon,82
+nlissett5,61,15,1,Hadoop,Innovation,608,35,,60
+cschiefersten6,10,30,67,Python,Leadership,120,30,Citi,84
+cdohms7,70,26,61,R,Communication,266,3,Amazon,88
+vtwitty8,40,70,99,Databases,Leadership,74,20,BMC,94
+lheavens9,32,89,21,Java,Communication,335,47,Citi,82
+thalcroa,21,54,89,Databases,Leadership,407,28,TCS,95
+dainsleeb,73,99,41,C++,Collaboration,618,33,Citi,82
+redserc,32,86,58,Python,Problem Solving,397,59,Citi,87
+mmcgebenayd,38,11,1,Cloud environment,Problem Solving,53,37,,23
+lcapone,78,2,86,C++,Analytical Thinking,613,17,Citi,94
+stummasuttif,58,23,48,Python,Problem Solving,232,42,,81
+dmundwellg,5,94,65,Cloud environment,Problem Solving,6,14,Dell,90
+testUser,67,98,8,Hadoop,Communication,407,4,Google,82
+lvasovici,60,29,16,Python,Leadership,143,13,,64
+byukhnevj,34,14,49,Python,Leadership,94,30,,81
+ghailsk,4,70,76,Databases,Collaboration,380,18,Amazon,90
+kburselll,48,68,93,Databases,Collaboration,97,11,Microsoft,99
+jdurdenm,23,45,37,Databases,Leadership,377,32,,61
+kjenynsn,78,90,86,Linux,Leadership,618,11,Google,100
+erawoodo,85,85,97,Python,Communication,93,30,Dell,100
+scheverellp,53,33,78,Python,Leadership,519,24,D.E.Shaw,97
+tmathevetq,6,77,17,Python,Leadership,455,28,TCS,81
+kweblinr,8,20,60,Scheme,Communication,236,54,Dell,82
+rthrings,59,70,87,Java,Analytical Thinking,387,16,Apple,99
+orugierit,33,82,86,Prolog,Leadership,274,32,BMC,93
+gwarkeu,56,94,4,Python,Leadership,519,15,Citi,81
+asciniv,21,39,24,Linux,Leadership,582,49,,71
+cmeasenw,63,88,57,Databases,Communication,297,20,Citi,88
+jsprasenx,29,91,82,Python,Problem Solving,47,55,Citi,100
+qguerrey,36,31,39,Distributed systems,Collaboration,297,40,,76
+cstifez,15,24,43,Java,Leadership,344,43,Dell,32
+fmcentee10,4,74,92,Python,Leadership,220,18,Citi,98
+lfesby11,96,23,42,C#,Leadership,287,40,,58
+mfearenside12,51,89,53,Java,Communication,552,41,Citi,85
+obum13,58,46,46,C++,Collaboration,69,49,,89
+suwins14,36,50,72,Distributed systems,Problem Solving,519,30,Amazon,98
+breddan15,12,48,79,Virtual machines,Collaboration,225,57,Intuit,93
+lhulett16,87,24,84,Scheme,Leadership,29,17,Citi,91
+lsalling17,36,30,37,Databases,Analytical Thinking,700,3,,68
+gagerskow18,11,96,19,Hadoop,Collaboration,329,30,TCS,80
+tbooley19,12,77,17,Databases,Collaboration,304,53,Dell,84
+mdempster1a,22,5,15,Hadoop,Leadership,697,27,,36
+mhandman1b,33,79,88,Cloud environment,Problem Solving,430,45,Citi,91
+hhabin1c,80,91,61,Java,Leadership,545,34,Google,83
+mnormand1d,10,89,87,Databases,Communication,22,57,Intuit,100
+amanjin1e,17,40,42,Databases,Leadership,447,43,J.P.Morgan Chase,64
+twooster1f,15,45,59,Java,Communication,177,26,Dell,81
+lwesthead1g,34,39,78,R,Leadership,483,29,Apple,96
+tbarnaclough1h,33,28,68,C#,Problem Solving,361,12,Dell,85
+gjanas1i,59,27,18,Databases,Problem Solving,603,17,,75
+acharlin1j,94,80,53,Lisp,Communication,484,20,TCS,89
+lfinding1k,29,50,61,Cloud environment,Leadership,537,35,Amazon,82
+abruckstein1l,88,47,64,Java,Communication,65,26,Apple,86
+kmuckley1m,74,35,7,Python,Problem Solving,564,17,,71
+dblockey1n,90,69,24,Cloud environment,Problem Solving,91,38,Amazon,84
+lcroal1o,65,8,57,Cloud environment,Communication,488,51,BMC,87
+jduinbleton1p,13,80,16,Python,Leadership,242,48,Dell,84
+nmaass1q,39,27,20,Python,Analytical Thinking,255,2,,72
+gmccorry1r,51,53,2,Python,Problem Solving,73,2,Citi,83
+hyankin1s,68,26,95,C#,Problem Solving,86,31,Citi,93
+oborrow1t,94,10,6,Cloud environment,Communication,265,45,,45
+mgregorio1u,16,88,66,Java,Problem Solving,654,1,Intuit,88
+hblasgen1v,71,16,92,Java,Communication,81,53,TCS,96
+gkinvan1w,82,100,24,Python,Communication,105,47,Dell,85
+kgencke1x,28,25,11,Lisp,Collaboration,106,19,,61
+hoakenford1y,33,33,73,Hadoop,Communication,665,42,Intuit,99
+tdore1z,98,70,100,Python,Communication,310,29,Citi,92
+agoldstein20,63,16,58,Hadoop,Analytical Thinking,634,24,TCS,88
+jferronier21,8,26,37,Java,Communication,474,45,TCS,65
+lcrampin22,56,70,22,Linux,Communication,366,3,Amazon,84
+welliott23,33,71,47,Linux,Communication,63,13,Intuit,81
+dshuttlewood24,83,5,55,R,Analytical Thinking,373,45,Amazon,84
+fbouette25,95,94,93,Linux,Leadership,522,42,Apple,95
+ckuhle26,34,68,12,Python,Leadership,229,22,Dell,84
+jwenban27,77,11,5,Cloud environment,Communication,544,44,,57
+gtutchell28,14,25,88,C#,Leadership,170,28,Microsoft,93
+earchambault29,85,89,25,Hadoop,Leadership,276,4,TCS,84
+mstanlack2a,66,22,31,Databases,Communication,442,44,,42
+rfleg2b,91,40,13,Distributed systems,Leadership,59,33,,77
+wluipold2c,53,44,42,Java,Collaboration,551,13,,62
+myeates2d,83,41,47,Python,Leadership,290,7,,80
+jberard2e,69,94,21,Prolog,Problem Solving,450,1,Dell,82
+lderechter2f,33,13,11,Prolog,Leadership,493,54,,44
+jjoselson2g,57,93,68,Databases,Problem Solving,507,21,TCS,88
+cmucci2h,96,76,81,Hadoop,Collaboration,344,35,Apple,95
+gfrodsam2i,9,31,66,Databases,Leadership,238,58,TCS,88
+nplett2j,29,66,29,Python,Leadership,519,8,Dell,83
+wivasechko2k,12,77,43,Lisp,Leadership,641,39,J.P.Morgan Chase,85
+mmountfort2l,66,70,48,Java,Innovation,593,12,TCS,83
+badds2m,14,1,15,Distributed systems,Leadership,395,26,Intuit,43
+rpaulo2n,86,65,70,Databases,Leadership,121,53,Citi,84
+htunnock2o,75,64,6,Java,Problem Solving,356,10,Google,80
+wmcgucken2p,30,93,16,Databases,Leadership,564,9,Citi,80
+krennard2q,67,46,37,Java,Collaboration,25,51,,73
+ghealey2r,57,89,79,C++,Leadership,419,32,D.E.Shaw,99
+mliebmann2s,53,58,98,Cloud environment,Leadership,10,17,Citi,95
+kcampion2t,43,77,55,Java,Collaboration,509,5,Amazon,80
+ddiss2u,79,21,83,Python,Problem Solving,329,59,D.E.Shaw,94
+brich2v,46,97,4,Cloud environment,Communication,71,23,TCS,83
+nreedick2w,62,30,99,C++,Problem Solving,374,14,Amazon,99
+bthreadgall2x,85,45,88,Java,Communication,369,21,Apple,99
+evigrass2y,68,73,8,Databases,Analytical Thinking,238,10,Citi,83
+obrockman2z,11,65,51,Java,Leadership,203,59,D.E.Shaw,87
+bbultitude30,73,91,30,C++,Leadership,319,56,J.P.Morgan Chase,85
+csivill31,56,87,1,C++,Problem Solving,218,47,Dell,84
+lpendrid32,36,72,76,Lisp,Leadership,158,33,Dell,91
+rowtram33,99,89,19,Databases,Communication,85,2,Dell,83
+ckid34,79,10,83,Databases,Communication,111,49,Amazon,95
+jnarup35,81,94,52,Java,Leadership,242,59,Apple,90
+lchaperling36,46,15,26,Databases,Leadership,667,33,,20
+aritter37,13,28,60,Python,Problem Solving,354,45,Amazon,86
+rhanington38,8,93,33,Java,Communication,55,45,Google,80
+amatys39,74,47,29,Databases,Collaboration,270,53,,80
+ghayland3a,11,87,46,Cloud environment,Problem Solving,391,27,Dell,89
+wenos3b,43,46,13,Lisp,Communication,487,43,,65
+gkinkead3c,9,29,10,Cloud environment,Collaboration,543,29,Citi,67
+rhugk3d,61,65,72,C++,Leadership,162,28,Citi,90
+kdominelli3e,99,11,3,Cloud environment,Collaboration,493,50,,48
+jshugg3f,59,61,83,Distributed systems,Communication,659,16,Dell,92
+pocleary3g,37,44,25,Python,Innovation,198,53,,71
+spinchen3h,91,88,26,Databases,Leadership,527,4,Citi,81
+santos3i,79,25,15,C#,Leadership,189,24,,78
+dsherbrook3j,73,30,47,Scheme,Communication,519,53,,80
+mmaiden3k,7,25,75,C++,Leadership,369,23,Amazon,98
+troz3l,73,36,37,Distributed systems,Innovation,180,23,,80
+meadington3m,23,55,48,Prolog,Leadership,478,44,BMC,83
+gbursell3n,50,48,75,Databases,Innovation,481,37,Google,90
+ssay3o,28,67,31,C#,Leadership,9,12,TCS,80
+ckempston3p,4,9,84,C++,Analytical Thinking,133,2,Dell,94
+mmeakin3q,36,11,84,Hadoop,Collaboration,442,21,Dell,90
+mgiurio3r,10,93,21,C#,Leadership,44,25,Google,85
+cadriaan3s,33,81,41,C++,Communication,214,58,BMC,80
+apenright3t,23,51,97,C++,Collaboration,503,53,Citi,95
+kcinavas3u,60,28,78,Python,Leadership,78,50,BMC,100
+aeldrid3v,78,38,46,Python,Analytical Thinking,382,7,,81
+pwhitten3w,78,4,18,Python,Leadership,491,8,,57
+coxer3x,10,84,85,Java,Communication,297,8,TCS,92
+rshipman3y,2,5,1,Prolog,Leadership,4,5,J.P.Morgan Chase,20
+gburril3z,83,90,63,Databases,Communication,164,50,Intuit,83
+nwillisch40,25,34,86,Scheme,Problem Solving,462,15,D.E.Shaw,93
+dballister41,95,14,2,Java,Leadership,500,18,,48
+rlobbe42,78,35,59,R,Collaboration,369,4,Apple,88
+slancetter43,66,22,42,Prolog,Leadership,442,54,,54
+sreichardt44,3,67,45,Prolog,Leadership,377,52,Citi,85
+dtigwell45,10,27,83,Python,Problem Solving,154,21,Dell,100
+sfiddian46,78,32,94,C++,Collaboration,23,26,J.P.Morgan Chase,97
+lgerg47,14,40,30,Java,Communication,494,44,BMC,77
+scradey48,72,36,25,Python,Leadership,342,52,,60
+apeotz49,35,9,51,Prolog,Leadership,455,52,Dell,82
+hvirr4a,14,21,26,Databases,Leadership,348,17,Citi,35
+bbanford4b,61,55,48,Lisp,Communication,624,58,TCS,81
+cgrime4c,99,31,58,C++,Leadership,662,52,TCS,90
+slippingwell4d,86,27,100,C++,Communication,610,6,TCS,99
+tgarrelts4e,82,37,63,Java,Problem Solving,687,32,Google,83
+rlindmark4f,46,80,8,Hadoop,Communication,692,43,J.P.Morgan Chase,85
+tkoch4g,48,72,47,Databases,Innovation,628,14,Citi,80
+bummfrey4h,7,10,12,Databases,Communication,311,9,TCS,43
+bclarey4i,24,64,36,C++,Problem Solving,527,43,TCS,82
+kstigger4j,10,80,55,R,Collaboration,484,56,Apple,84
+mgoss4k,64,31,58,R,Leadership,198,14,Citi,84
+lfarney4l,13,44,39,Databases,Leadership,343,8,Intuit,78
+agrollmann4m,37,13,12,Prolog,Innovation,524,2,,32
+npetel4n,13,56,85,C#,Leadership,5,4,Citi,92
+sglassford4o,8,82,100,Python,Innovation,602,31,Dell,93
+tmatuskiewicz4p,69,18,91,Python,Leadership,536,32,Dell,95
+dcotter4q,78,45,5,C++,Problem Solving,189,48,,65
+monraet4r,77,14,59,Java,Leadership,278,28,Dell,84
+mdanels4s,50,14,7,C#,Leadership,444,41,,54
+nmackill4t,74,69,84,Linux,Problem Solving,555,12,Dell,92
+jgrzelak4u,41,94,38,Python,Leadership,668,54,J.P.Morgan Chase,83
+mcromb4v,84,15,69,R,Leadership,628,7,BMC,80
+cgirardy4w,59,17,53,Databases,Collaboration,218,45,Dell,87
+cstripling4x,62,99,80,C#,Leadership,42,58,J.P.Morgan Chase,98
+challibone4y,76,98,13,Python,Leadership,155,49,TCS,85
+rslany4z,59,36,59,Linux,Problem Solving,265,37,Dell,86
+vchettle50,97,54,40,Python,Leadership,600,12,TCS,80
+abourbon51,33,77,90,Java,Communication,3,25,Dell,90
+hmcdermid52,3,62,67,C++,Communication,397,42,Citi,87
+ygreenleaf53,95,24,57,Python,Problem Solving,279,37,Dell,90
+fschoffler54,74,88,26,Prolog,Problem Solving,141,7,BMC,82
+nmckevany55,21,82,68,Linux,Leadership,591,30,Amazon,81
+fshevelin56,91,85,35,Databases,Leadership,68,18,Intuit,82
+mrenad57,89,18,56,Databases,Communication,670,14,Google,85
+mcockle58,11,81,32,Databases,Leadership,316,36,Citi,85
+bolivella59,73,78,76,Linux,Communication,403,53,Amazon,94
+vsenecaut5a,77,95,45,Python,Communication,279,45,TCS,85
+kbattye5b,90,47,73,Python,Communication,231,17,Citi,98
+landreev5c,86,89,87,Linux,Collaboration,197,6,Dell,99
+astille5d,78,64,50,Databases,Leadership,605,29,TCS,80
+fflude5e,1,80,98,Virtual machines,Innovation,413,53,Citi,92
+pclarson5f,15,82,15,Python,Leadership,558,20,BMC,83
+llubeck5g,31,22,46,Cloud environment,Leadership,593,33,,81
+shentze5h,95,100,83,Java,Leadership,461,35,TCS,93
+dnuschke5i,64,31,99,Databases,Communication,396,56,Dell,94
+ocharker5j,32,5,100,Prolog,Communication,96,58,D.E.Shaw,94
+caartsen5k,85,53,55,C#,Communication,55,49,D.E.Shaw,87
+zpincked5l,51,61,29,Python,Collaboration,557,2,Citi,82
+ftraise5m,69,20,58,Java,Leadership,550,27,D.E.Shaw,81
+apere5n,98,72,37,Java,Leadership,13,29,J.P.Morgan Chase,81
+adumphy5o,5,20,87,R,Innovation,321,24,Dell,99
+bmayers5p,56,15,69,Virtual machines,Leadership,501,51,TCS,86
+eagg5q,84,23,64,Linux,Leadership,87,25,Dell,88
+rlander5r,16,28,22,C++,Problem Solving,320,42,Citi,65
+acassimer5s,48,49,84,Lisp,Leadership,44,54,Amazon,98
+sduddle5t,58,2,74,Java,Leadership,475,13,Microsoft,93
+mwellstood5u,63,85,57,Python,Communication,612,17,J.P.Morgan Chase,84
+kheningam5v,75,23,72,R,Problem Solving,126,9,TCS,95
+nverling5w,87,89,10,Databases,Analytical Thinking,557,30,Intuit,84
+nhargess5x,84,20,41,Cloud environment,Communication,87,38,,45
+lbartoli5y,68,57,55,Linux,Communication,205,41,Amazon,86
+lberriball5z,63,64,96,Java,Leadership,98,31,D.E.Shaw,97
+aingry60,74,61,8,Python,Leadership,376,29,J.P.Morgan Chase,82
+lwrought61,70,93,16,Distributed systems,Problem Solving,460,51,Dell,82
+rbendan62,76,66,1,Java,Leadership,436,31,BMC,85
+ajann63,100,28,7,R,Leadership,370,49,,65
+modeoran64,49,11,94,Python,Communication,665,41,Dell,98
+chousley65,44,13,64,Databases,Innovation,534,13,BMC,89
+dvescovini66,10,99,24,Databases,Leadership,61,11,D.E.Shaw,84
+acuniffe67,31,84,88,R,Communication,444,47,Google,98
+dborthram68,21,2,79,Linux,Communication,307,48,Google,91
+cedgerly69,13,88,71,C++,Leadership,556,45,Citi,98
+wlongmate6a,17,10,48,Databases,Leadership,49,17,Dell,89
+cyoungman6b,63,15,67,C++,Innovation,263,7,Amazon,81
+lfillimore6c,33,76,46,Databases,Problem Solving,463,41,Amazon,88
+afreeman6d,52,50,13,Python,Collaboration,223,46,Dell,85
+mmilner6e,69,79,23,Scheme,Communication,556,14,TCS,83
+mtrevaskus6f,41,81,81,Virtual machines,Leadership,544,6,Intuit,96
+bshippey6g,49,27,11,Cloud environment,Problem Solving,470,26,,71
+lcay6h,66,95,95,C++,Leadership,263,2,Amazon,98
+acarabet6i,79,16,88,C++,Communication,161,28,Dell,94
+ahan6j,69,32,86,C++,Communication,391,38,D.E.Shaw,90
+rmaccroary6k,55,11,46,Python,Communication,228,30,,88
+rmilstead6l,39,14,55,Linux,Problem Solving,177,23,Apple,84
+eewer6m,58,73,8,Java,Leadership,101,51,Citi,84
+uiskov6n,22,14,29,Databases,Communication,641,19,,30
+mfeben6o,57,40,57,Python,Problem Solving,293,6,Google,85
+pthies6p,43,59,13,C++,Analytical Thinking,121,29,Amazon,83
+acunradi6q,84,69,92,C++,Communication,505,43,Apple,95
+knucciotti6r,95,34,5,Java,Communication,432,18,,61
+fstife6s,46,100,95,Databases,Problem Solving,658,45,J.P.Morgan Chase,90
+bwhylie6t,11,44,7,Databases,Leadership,208,42,Citi,63
+pgreg6u,34,18,69,C++,Leadership,330,26,J.P.Morgan Chase,86
+ptonkinson6v,27,66,72,Databases,Leadership,680,23,Google,99
+rpanichelli6w,95,92,100,C++,Collaboration,268,55,Dell,92
+jvaskov6x,66,24,7,Databases,Communication,300,36,,40
+dcalendar6y,95,1,72,C++,Innovation,244,7,TCS,90
+mmardell6z,37,84,22,C++,Communication,244,48,J.P.Morgan Chase,84
+dpadula70,25,48,55,C++,Communication,272,6,Apple,80
+pcuniam71,87,23,27,Virtual machines,Communication,150,23,,60
+kjoss72,89,13,83,Python,Communication,279,47,Citi,97
+roduggan73,42,59,52,Scheme,Leadership,144,19,D.E.Shaw,89
+cpittway74,76,81,13,Python,Communication,311,1,Dell,81
+bpurver75,2,85,38,Virtual machines,Leadership,321,11,Dell,80
+mhamfleet76,34,58,9,C++,Leadership,444,13,Amazon,81
+grudyard77,80,68,59,Java,Communication,270,32,Intuit,90
+hmee78,67,8,60,Java,Leadership,97,48,Google,88
+elehrle79,5,58,98,Java,Leadership,406,25,Dell,92
+ceat7a,47,93,60,Python,Leadership,509,34,D.E.Shaw,89
+tferries7b,53,12,66,Databases,Leadership,543,30,Dell,85
+dblakeley7c,64,85,98,C++,Leadership,429,30,Dell,96
+riacovaccio7d,54,26,96,Python,Innovation,449,12,TCS,97
+cgroucock7e,70,11,18,Python,Communication,541,26,,40
+oduinkerk7f,73,92,16,Java,Communication,11,17,Dell,85
+lslorach7g,100,22,99,C#,Leadership,48,1,J.P.Morgan Chase,94
+kgronav7h,75,26,40,C#,Leadership,255,4,,77
+bstandell7i,99,70,2,Prolog,Communication,49,10,D.E.Shaw,85
+ehedgeley7j,63,27,3,Java,Communication,144,19,,63
+msperring7k,30,24,20,Lisp,Communication,451,57,,34
+nissacov7l,89,98,51,C++,Leadership,207,53,Amazon,86
+efidock7m,14,55,3,C++,Leadership,587,32,Dell,82
+rskoughman7n,34,37,14,Virtual machines,Leadership,175,6,,61
+jgoter7o,57,75,61,Linux,Communication,571,14,Citi,83
+thulance7p,25,60,79,C++,Leadership,403,39,Dell,96
+lbremner7q,1,9,51,Linux,Leadership,132,11,J.P.Morgan Chase,80
+fdrewry7r,2,52,1,C++,Analytical Thinking,236,32,Amazon,80
+rlhommeau7s,51,3,4,Scheme,Leadership,244,27,,50
+loxbrow7t,48,79,35,C++,Collaboration,298,7,Amazon,85
+mstrang7u,17,100,84,Python,Communication,12,13,Dell,91
+kcliff7v,31,58,32,Python,Leadership,47,27,Dell,81
+eklug7w,92,76,59,Virtual machines,Collaboration,108,6,Dell,86
+kbrookes7x,22,43,82,Python,Innovation,273,18,Citi,90
+bsamwell7y,81,31,38,Databases,Communication,292,9,,71
+dbilsland7z,26,19,84,Databases,Communication,382,22,Amazon,90
+lwye80,85,44,66,R,Analytical Thinking,229,34,Apple,90
+driatt81,23,8,74,Linux,Communication,256,19,BMC,94
+bbouskill82,29,76,23,Databases,Leadership,144,15,BMC,84
+cmacrury83,98,56,51,Linux,Problem Solving,199,59,Dell,86
+kshoebridge84,45,58,67,C++,Collaboration,342,8,Google,85
+cfeldmark85,99,66,57,Java,Communication,416,43,Amazon,85
+cpondjones86,5,38,80,Databases,Analytical Thinking,572,20,Dell,95
+gfaint87,5,28,20,Python,Leadership,317,43,Dell,74
+gkantor88,37,69,33,Databases,Problem Solving,628,58,Dell,85
+falgeo89,35,73,35,Python,Innovation,254,12,BMC,84
+loke8a,8,46,32,Python,Communication,573,27,BMC,62
+ekielty8b,62,62,53,Python,Analytical Thinking,172,10,Microsoft,89
+bnesbitt8c,61,44,88,Databases,Communication,540,34,D.E.Shaw,93
+qfrentz8d,60,93,69,Linux,Leadership,553,46,TCS,88
+tcarreck8e,44,75,99,Hadoop,Communication,656,38,Dell,94
+habelovitz8f,48,27,5,Linux,Leadership,222,12,,72
+kbaxstar8g,44,14,88,Linux,Communication,648,45,Dell,97
+nhalwood8h,84,77,45,Linux,Leadership,62,42,D.E.Shaw,84
+uespine8i,26,11,2,Python,Analytical Thinking,477,23,,30
+bberrey8j,56,10,61,Cloud environment,Communication,31,2,Citi,82
+faldrich8k,13,20,81,C++,Collaboration,102,40,Citi,91
+gmullany8l,97,58,89,Python,Communication,369,26,J.P.Morgan Chase,100
+fpostance8m,69,73,100,Databases,Communication,635,31,Intuit,100
+cflemmich8n,27,91,12,Java,Leadership,380,35,Google,85
+kgrog8o,64,39,47,Java,Communication,344,18,,83
+ctrimming8p,55,84,3,Java,Communication,399,8,Dell,84
+gklimentyonok8q,79,87,96,Python,Leadership,52,22,TCS,100
+achretien8r,70,59,20,Python,Leadership,264,51,BMC,84
+vtatteshall8s,43,74,25,Java,Leadership,69,22,J.P.Morgan Chase,82
+ggarrett8t,8,35,70,Cloud environment,Leadership,104,39,J.P.Morgan Chase,82
+hcrossthwaite8u,18,23,92,Python,Leadership,298,28,Dell,91
+dlusher8v,26,73,73,Java,Communication,195,22,Dell,98
+lmayler8w,11,62,57,C++,Leadership,58,49,Citi,83
+pgadie8x,21,50,84,Linux,Leadership,489,25,Apple,94
+hmatyasik8y,60,32,55,Distributed systems,Communication,687,20,TCS,83
+aslamaker8z,57,64,47,C#,Problem Solving,449,57,TCS,81
+fleighton90,17,91,78,Java,Communication,230,8,Amazon,91
+nclaibourn91,29,7,61,Linux,Analytical Thinking,588,3,J.P.Morgan Chase,84
+ppendergrast92,6,54,55,Distributed systems,Innovation,104,4,Amazon,87
+rgallally93,32,74,61,C++,Leadership,569,19,Amazon,88
+jmoult94,42,75,67,C#,Communication,177,47,Amazon,85
+igodspeede95,8,40,63,C++,Problem Solving,336,49,Citi,89
+tlydiatt96,28,5,35,R,Leadership,401,30,,32
+cmaciaszczyk97,99,56,90,Prolog,Communication,486,13,Google,100
+abuff98,83,45,76,Scheme,Leadership,506,20,Dell,92
+adales99,40,19,52,C++,Communication,117,48,TCS,90
+mceschi9a,78,63,23,Databases,Communication,558,11,J.P.Morgan Chase,84
+mpavlasek9b,25,35,68,C#,Leadership,627,27,TCS,86
+gsheard9c,93,64,45,C#,Leadership,53,23,D.E.Shaw,85
+nmerveille9d,18,90,100,Java,Collaboration,382,36,TCS,97
+sbeckhouse9e,82,98,20,Prolog,Problem Solving,512,2,Citi,82
+adongall9f,17,17,48,Linux,Problem Solving,0,57,Intuit,85
+badamsson9g,57,60,12,Python,Problem Solving,413,23,Google,84
+klivard9h,77,100,82,C#,Communication,425,6,Amazon,90
+rcorcut9i,71,23,70,Databases,Communication,471,13,BMC,82
+cszymanski9j,85,42,15,Java,Problem Solving,441,24,,71
+chitchens9k,6,84,62,C++,Communication,388,36,Intuit,89
+clummis9l,45,92,45,Lisp,Innovation,602,18,Dell,80
+ggandley9m,87,50,86,C++,Communication,476,10,Citi,90
+tglyn9n,28,99,91,Python,Leadership,406,35,Dell,100
+msainsbury9o,33,49,86,Virtual machines,Leadership,276,52,Amazon,93
+mmaus9p,68,4,90,Python,Communication,79,35,TCS,90
+hwightman9q,66,79,27,Python,Leadership,210,18,J.P.Morgan Chase,81
+isnalum9r,82,84,2,R,Problem Solving,262,6,Intuit,81
+vstare9s,31,47,21,Databases,Communication,114,52,,70
+jhowood9t,14,8,18,Scheme,Leadership,493,16,Citi,43
+fshephard9u,9,59,94,Python,Communication,463,51,Citi,96
+cluxton9v,11,65,94,Databases,Innovation,17,22,TCS,99
+eadolf9w,19,19,26,C++,Leadership,32,38,Intuit,43
+vzanolli9x,21,61,55,C++,Communication,4,2,Citi,86
+bstaples9y,80,23,64,Databases,Communication,500,6,Dell,86
+sclawsley9z,22,36,2,Databases,Collaboration,501,52,,75
+wburcharda0,83,86,38,Virtual machines,Communication,413,29,Dell,80
+bpogosiana1,76,25,9,Python,Problem Solving,585,47,,67
+srheaumea2,74,52,20,Cloud environment,Leadership,407,24,TCS,84
+lpinshona3,89,84,42,Python,Leadership,603,19,TCS,85
+calabonea4,71,21,79,Lisp,Communication,508,25,Google,93
+aatchesona5,14,5,19,Python,Problem Solving,377,21,Dell,41
+thawkingsa6,72,23,24,Hadoop,Innovation,491,48,,59
+nstockleya7,87,68,28,Lisp,Leadership,280,33,Dell,84
+uhendrika8,56,13,71,Hadoop,Communication,380,24,Google,93
+bpickarda9,26,18,66,Python,Communication,497,44,TCS,83
+kreddishaa,60,60,89,Java,Communication,347,37,D.E.Shaw,98
+bbarhamsab,46,59,43,Databases,Communication,166,57,Citi,83
+wcoattsac,42,62,7,Python,Leadership,81,8,Amazon,84
+wgirdlerad,2,72,29,Prolog,Collaboration,243,50,Intuit,83
+vatyeoae,74,46,79,Java,Collaboration,13,34,Dell,91
+vhaslingaf,59,58,95,Python,Leadership,400,59,Apple,90
+dmardallag,59,55,79,Java,Communication,337,40,Dell,92
+gbullasah,82,45,58,Python,Leadership,541,57,Dell,81
+mvaseninai,28,100,43,Databases,Communication,627,22,Intuit,82
+dyakushkevaj,100,88,18,Java,Leadership,560,59,Amazon,84
+kchristmasak,68,81,61,Databases,Communication,461,31,Dell,90
+mluscottal,43,76,23,Cloud environment,Problem Solving,586,56,J.P.Morgan Chase,84
+maltenam,29,58,91,Linux,Leadership,104,20,Dell,95
+gjaycocksan,31,17,8,Python,Leadership,123,50,,50
+aszymoniao,24,13,67,Virtual machines,Problem Solving,591,35,Dell,82
+acattermullap,15,58,14,C#,Leadership,158,41,Dell,82
+edelwateraq,25,32,27,Java,Problem Solving,236,29,,69
+abryanar,36,26,70,Python,Communication,80,6,Amazon,81
+whowleras,27,99,30,Linux,Innovation,147,29,Citi,85
+ccantoat,100,89,21,Linux,Leadership,491,9,Dell,81
+wgrittonau,87,43,69,Python,Leadership,672,7,Dell,88
+emamwellav,1,32,43,Java,Analytical Thinking,43,49,Intuit,64
+aobeyaw,55,44,21,Python,Leadership,291,10,,72
+goehmeax,100,63,90,Databases,Leadership,372,37,Apple,93
+aakhurstay,61,5,13,Linux,Leadership,99,32,,45
+mdanksaz,24,22,94,Databases,Leadership,616,14,Intuit,99
+dnorcockb0,18,58,76,Hadoop,Problem Solving,595,21,TCS,92
+kwindhamb1,3,58,95,Databases,Communication,281,57,D.E.Shaw,93
+amateevb2,53,43,71,R,Leadership,445,23,Apple,96
+rshelfordb3,7,80,100,R,Problem Solving,387,43,Apple,97
+ntarpleeb4,22,12,72,Databases,Problem Solving,609,47,Dell,95
+galeksankovb5,62,32,20,Java,Problem Solving,311,24,,70
+mmcowisb6,78,58,56,Databases,Leadership,292,1,Citi,82
+ublaineyb7,98,28,53,C#,Communication,301,26,TCS,87
+jbadgerb8,72,67,93,Scheme,Collaboration,179,47,Google,98
+skesleyb9,25,42,80,Cloud environment,Communication,243,23,TCS,98
+fphiloba,94,73,50,Distributed systems,Leadership,107,57,Dell,87
+bschirokbb,49,7,45,Python,Leadership,275,19,,50
+tlacroutsbc,9,26,30,Python,Communication,120,5,Citi,65
+orubenchikbd,68,93,13,Linux,Leadership,560,13,Dell,84
+pcliffbe,49,66,35,C#,Leadership,581,39,Dell,84
+szorzenonibf,78,3,44,Databases,Leadership,574,44,,56
+nmountneybg,100,57,20,Python,Problem Solving,376,40,Amazon,83
+kdebruijnbh,22,69,94,Python,Problem Solving,54,5,Dell,93
+vharbagebi,61,50,70,C++,Communication,90,51,TCS,84
+bstirmanbj,2,8,15,Python,Communication,579,8,Citi,45
+htennetbk,64,94,67,C++,Communication,311,24,Dell,89
+bgobybl,79,74,96,Cloud environment,Analytical Thinking,423,58,Citi,91
+kvainbm,14,32,26,Hadoop,Leadership,474,31,TCS,70
+lperrymanbn,2,35,98,Databases,Leadership,595,30,Microsoft,94
+godeoranbo,11,67,65,Cloud environment,Problem Solving,639,38,Amazon,81
+tstickfordbp,85,57,49,Databases,Communication,9,43,BMC,90
+myemmbq,2,58,74,Prolog,Collaboration,418,57,TCS,93
+vgreguolbr,41,53,80,Linux,Leadership,290,30,Google,96
+tjoesburybs,4,42,39,Distributed systems,Communication,699,9,Intuit,71
+scaesmanbt,26,34,68,Distributed systems,Leadership,141,49,BMC,81
+jrackstrawbu,9,24,30,Virtual machines,Collaboration,408,3,J.P.Morgan Chase,21
+ltremblotbv,32,51,75,Python,Analytical Thinking,219,43,Amazon,100
+mparamanbw,2,41,32,Databases,Communication,551,57,Intuit,64
+kwelchbx,4,55,93,Databases,Communication,492,44,Google,92
+azanittiby,53,75,79,Python,Analytical Thinking,571,32,Microsoft,96
+brosenstielbz,75,80,12,Virtual machines,Problem Solving,5,37,Citi,84
+dfairbardc0,23,70,84,C++,Leadership,358,26,J.P.Morgan Chase,99
+belkinc1,70,100,91,Python,Leadership,519,40,TCS,96
+vthreadgoldc2,1,39,47,Python,Problem Solving,178,42,BMC,85
+bkeillohc3,49,77,27,Java,Leadership,211,56,D.E.Shaw,83
+estitsonc4,51,45,44,Databases,Collaboration,676,44,,67
+fmarlorc5,16,98,67,Databases,Analytical Thinking,172,19,Dell,87
+tkeefec6,75,14,39,Databases,Leadership,12,6,,52
+lcinellic7,14,100,16,C#,Analytical Thinking,543,42,J.P.Morgan Chase,83
+avidelerc8,43,12,41,Databases,Communication,546,36,,32
+smcelweec9,63,48,15,Linux,Leadership,296,57,,73
+mcomrieca,11,7,81,Java,Leadership,565,38,Dell,97
+hhadyecb,25,23,26,Databases,Communication,260,20,,49
+yblondellcc,79,66,2,C++,Leadership,485,48,BMC,84
+ieverillcd,67,50,33,C++,Problem Solving,235,51,D.E.Shaw,83
+agotcliffce,22,48,22,Java,Leadership,623,57,,66
+hfyldescf,30,6,75,Databases,Analytical Thinking,623,9,TCS,96
+bdelamarcg,18,52,6,Virtual machines,Communication,369,25,BMC,81
+dberrch,43,10,45,Java,Analytical Thinking,375,53,,27
+isweatingci,85,91,16,Java,Leadership,316,5,Dell,82
+rclellecj,38,6,51,Java,Problem Solving,61,29,J.P.Morgan Chase,80
+cdunthornck,46,31,88,Python,Leadership,21,17,D.E.Shaw,99
+dsappcl,25,19,1,Databases,Problem Solving,383,9,,37
+vgravenorcm,90,70,56,Linux,Problem Solving,164,13,D.E.Shaw,84
+asheptoncn,76,5,77,Hadoop,Problem Solving,192,13,Dell,100
+cjappco,79,93,56,C#,Problem Solving,85,1,Amazon,80
+dgawkescp,99,36,74,Cloud environment,Leadership,493,21,Apple,93
+dearycq,35,66,47,C++,Problem Solving,463,11,TCS,83
+mpledgecr,30,47,10,Python,Collaboration,524,2,,77
+bbresnahancs,6,7,4,Databases,Leadership,160,43,TCS,47
+corhrtct,93,58,75,Linux,Leadership,357,25,Citi,100
+ckremercu,18,85,4,Python,Communication,699,51,Citi,81
+rlynncv,81,46,46,Java,Problem Solving,514,46,,89
+fborghesecw,88,25,52,C#,Leadership,653,5,Apple,88
+rstyancx,24,18,3,Databases,Leadership,497,23,,40
+hhillettcy,91,55,32,Databases,Leadership,263,4,Dell,84
+hkimecz,88,38,48,Prolog,Communication,700,4,,87
+wmasterd0,7,39,94,R,Leadership,299,44,TCS,91
+sarnefieldd1,92,68,76,Scheme,Leadership,238,11,Amazon,97
+rmatuskiewiczd2,66,100,16,C++,Collaboration,248,52,TCS,80
+eevenettd3,6,80,84,Python,Communication,285,15,Dell,96
+pmuglestoned4,77,6,34,Java,Collaboration,235,50,,58
+mrubicad5,36,38,58,Databases,Leadership,75,20,Dell,83
+ehedylstoned6,31,32,51,C++,Communication,504,32,Citi,87
+tpuddicombed7,60,19,92,Hadoop,Communication,449,51,TCS,95
+obradderd8,74,69,44,Distributed systems,Analytical Thinking,573,24,Dell,85
+mdhooged9,15,24,11,Databases,Analytical Thinking,125,45,TCS,24
+ptolanda,75,67,77,Prolog,Communication,116,50,Microsoft,98
+jpowisdb,37,26,18,Lisp,Problem Solving,510,23,,66
+aspradbrowdc,38,21,15,Prolog,Communication,547,51,,31
+jgoszdd,44,99,31,Linux,Communication,632,27,Dell,80
+kjoannetde,49,45,6,Python,Communication,332,37,,72
+rcoplanddf,91,70,51,Java,Communication,685,25,Intuit,80
+dnimmodg,91,55,12,Python,Leadership,333,57,Amazon,83
+switcombedh,7,87,8,Linux,Leadership,89,15,Amazon,81
+hkempedi,75,90,6,Java,Innovation,101,8,TCS,80
+njarmainedj,34,23,12,Databases,Leadership,152,47,,29
+agenneydk,5,91,75,Cloud environment,Communication,522,34,Amazon,92
+afilippovdl,64,97,35,C#,Leadership,594,38,Dell,80
+cdeveredm,60,28,62,R,Problem Solving,54,59,TCS,83
+rsalkelddn,35,10,88,Scheme,Leadership,537,9,TCS,91
+dfollido,46,54,30,Databases,Collaboration,553,44,Google,85
+callotdp,16,25,64,Java,Problem Solving,56,47,Microsoft,84
+mrudgarddq,85,100,100,Linux,Problem Solving,288,28,Apple,95
+ssoigouxdr,81,50,79,R,Collaboration,327,1,Amazon,100
+mpaigeds,7,34,88,Java,Leadership,235,26,Amazon,92
+rguitonneaudt,92,77,81,Cloud environment,Leadership,693,22,Apple,92
+jslottdu,26,65,16,Python,Problem Solving,0,6,Dell,80
+kblackahdv,34,9,26,Cloud environment,Analytical Thinking,622,2,,42
