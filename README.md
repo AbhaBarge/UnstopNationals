@@ -10,8 +10,9 @@ Use<b> Deep Learning and Machine Learning </b>algorithms to develop the <b>Unsto
 ### For developers
   <img src="https://github.com/AbhaBarge/UnstopNationalFinals/blob/main/UnstopTechTalentPark/forUsers.png" alt='forUsers'/>
 
-  <img src="https://github.com/AbhaBarge/UnstopNationalFinals/blob/main/UnstopTechTalentPark/jobportal.png" alt='JobPortal'/>
+<img src="https://github.com/AbhaBarge/UnstopNationalFinals/blob/main/UnstopTechTalentPark/ScoreCalc.png" alt='Calculation'/>
 
+<img src="https://github.com/AbhaBarge/UnstopNationalFinals/blob/main/UnstopTechTalentPark/Implementation.png" alt='Implementation'/>
   
 ## Tech stacks : <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,flask,html,jquery,js,css,vscode" />
 1. Backend
