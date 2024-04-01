@@ -1,4 +1,5 @@
-# UnstopNationalFinals
+# UnstopNationals
+
 My submission for  Unstop Talent Park - Tech, Nationals
 
 ## Problem statement :
