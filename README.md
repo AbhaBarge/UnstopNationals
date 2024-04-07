@@ -15,7 +15,7 @@ Use<b> Deep Learning and Machine Learning </b>algorithms to develop the <b>Unsto
 
 <img src="https://github.com/AbhaBarge/UnstopNationalFinals/blob/main/UnstopTechTalentPark/Implementation.png" alt='Implementation'/>
   
-## Tech stacks : <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,flask,html,jquery,js,css,vscode" />
+## Tech stack : <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,flask,html,jquery,js,css,vscode" />
 1. Backend
    - Python
     - TensorFlow
