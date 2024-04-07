@@ -41,4 +41,4 @@ XAMPP<br>
 3. Storing the project at a different location can lead to server errors.
 
 ### Reference :
-Frontend code : https://github.com/Avinash905/unstop-ui-clone
+Frontend code template : https://github.com/Avinash905/unstop-ui-clone
