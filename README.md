@@ -18,13 +18,13 @@ Use<b> Deep Learning and Machine Learning </b>algorithms to develop the <b>Unsto
 ## Tech stack : <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,flask,html,jquery,js,css,vscode" />
 1. Backend
    - Python
-    - TensorFlow
-    - Keras
-    - Flask
-      - request
-      - render_template
-    - Pandas
-    - Numpy
+      - TensorFlow
+      - Keras
+      - Flask
+        - request
+        - render_template
+      - Pandas
+      - Numpy
 2. Frontend
    - HTML-5
    - CSS
